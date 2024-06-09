@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 25px;
+}
+
+.comment {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.comments {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
