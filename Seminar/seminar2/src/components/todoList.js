@@ -35,7 +35,7 @@ const TodoList = () => {
             <ul>
                 {todos.map((todo, index) => (
                     <li key={index}>{todo}</li>
-                    // использкем индекс как ключ
+                    // используем индекс как ключ
                 ))}
             </ul>
         </div>
